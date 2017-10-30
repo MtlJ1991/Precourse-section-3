@@ -1,0 +1,25 @@
+.jumbotron{
+    margin-top:20px;
+    background: url(img/background.jpg) no-repeat 0 -255px;
+    color: white;
+}
+
+.jumbotron #image{
+    margin-top:20px;
+    background: url(fence.jpg) no-repeat 0 -255px;
+    color: white;
+}
+
+.carousel-item{
+    width:640px;
+    height:460px;
+}
+
+#cid{
+    width:75px;
+    height:75px;
+}
+
+.carousel-inner img {
+    margin: auto;
+  }
